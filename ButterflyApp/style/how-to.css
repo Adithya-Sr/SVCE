@@ -1,0 +1,173 @@
+.navbar {
+  background: linear-gradient(
+    180deg,
+    #daf0c3 0%,
+    rgba(130, 204, 133, 0.97) 98.44%
+  );
+  height: 5rem;
+  margin-bottom: 3rem;
+}
+.icon-fam {
+  height: 5rem;
+  width: 5rem;
+  margin: 2rem;
+  transition: 0.3s;
+}
+.icon-fam:hover {
+  transform: translateY(-1rem);
+}
+.body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-image: url("../assets/butterfly.jpeg");
+
+  background-attachment: fixed;
+  background-size: cover;
+}
+.how-head {
+  font-family: "Mali", cursive;
+  font-weight: 900;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+.mg-top {
+  margin-top: 3rem;
+}
+.mg-left {
+  margin-left: 1rem;
+}
+.mg-bottom {
+  margin-bottom: 3rem;
+}
+.how-p {
+  font-size: 1.5rem;
+  margin-left: 1rem;
+}
+.how-h2 {
+  font-size: 2rem;
+  margin-left: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+.how-h3 {
+  font-size: 1.7rem;
+  margin-left: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+.ul {
+  display: flex;
+  margin-right: 3rem;
+  gap: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  list-style: none;
+  margin-left: 1rem;
+}
+.li-imp {
+  font-weight: 500;
+  transition: 0.3s;
+  padding: 1rem;
+  background: linear-gradient(
+    180deg,
+    #52e17a 17.13%,
+    rgba(73, 210, 141, 0.949063) 57.61%,
+    rgba(12, 185, 112, 0.9) 100%
+  );
+  backdrop-filter: blur(90px);
+  border-radius: 40px;
+  box-shadow: 0 0 20px rgba(195, 217, 196, 0.868415);
+}
+.li-imp:hover {
+  transform: translateY(-1rem);
+}
+.fnt {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.how-to {
+  height: auto;
+  opacity: 90%;
+
+  margin-left: 2rem;
+  margin-right: 6rem;
+  margin-bottom: 4rem;
+  padding: 3rem;
+  margin-top: 3rem;
+  background: linear-gradient(
+    180deg,
+    #52e17a 17.13%,
+    rgba(73, 210, 141, 0.949063) 57.61%,
+    rgba(12, 185, 112, 0.9) 100%
+  );
+  border-radius: 15px;
+  transition: 0.3s;
+}
+.how-to:hover {
+  transform: translateY(-1rem);
+}
+.habitat-hab {
+  height: auto;
+  opacity: 90%;
+
+  margin-left: 2rem;
+  margin-right: 6rem;
+  margin-bottom: 4rem;
+  padding: 3rem;
+  margin-top: 3rem;
+  background: linear-gradient(
+    180deg,
+    #52e17a 17.13%,
+    rgba(73, 210, 141, 0.949063) 57.61%,
+    rgba(12, 185, 112, 0.9) 100%
+  );
+  border-radius: 15px;
+  transition: 0.3s;
+}
+.marg {
+  margin-left: 4rem;
+}
+.iden {
+  height: auto;
+  opacity: 90%;
+  font-weight: 600;
+  margin-left: 2rem;
+  margin-right: 6rem;
+  margin-bottom: 4rem;
+  padding: 3rem;
+  margin-top: 3rem;
+  background: linear-gradient(
+    180deg,
+    #52e17a 17.13%,
+    rgba(73, 210, 141, 0.949063) 57.61%,
+    rgba(12, 185, 112, 0.9) 100%
+  );
+  border-radius: 15px;
+}
+.iden-sub:hover {
+  transform: translateY(-1rem);
+}
+.iden-sub {
+  font-weight: 500;
+  transition: 0.3s;
+  padding: 1rem;
+  background: linear-gradient(
+    180deg,
+    #52e17a 17.13%,
+    rgba(73, 210, 141, 0.949063) 57.61%,
+    rgba(12, 185, 112, 0.9) 100%
+  );
+  transition: 0.3s;
+  backdrop-filter: blur(90px);
+  border-radius: 40px;
+  box-shadow: 0 0 20px rgba(195, 217, 196, 0.868415);
+}
+.nav-logo {
+  width: 8rem;
+  height: 8rem;
+  margin-top: 1rem;
+}
+.nav-logo1 {
+  width: 15rem;
+}
